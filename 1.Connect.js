@@ -1,3 +1,4 @@
+/* Connect to database */
 const mysql = require('mysql');
 const vals = require('./vals');
 
