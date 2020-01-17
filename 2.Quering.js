@@ -1,4 +1,6 @@
-/* Quering to the database */
+/* Quering to the database
+    Basically quering to the database for anything one can use obj.query() method
+*/
 const mysql = require('mysql');
 const vals = require('./vals');
 
